@@ -8,4 +8,5 @@ This Repo Contains:
 - Pickle binary file
 
 In the making of this machine learning project:
+![THUMBNAIL](https://github.com/wicaksonohanif/family-car-price-prediction/assets/107620860/9c797fe8-f545-4794-82c2-a228419b1664)
 https://youtu.be/iDW8LC1pqkY
